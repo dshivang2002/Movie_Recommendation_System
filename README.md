@@ -31,7 +31,7 @@ This project takes a movie selected by the user and recommends **5 most similar 
 ### 🦸‍♂️ X-Men: The Last Stand → X-Men universe
 > Selected: **X-Men: The Last Stand** | Got: X2, X-Men, Days of Future Past, X-Men Origins: Wolverine, X-Men: First Class
  
-![X-Men Demo](screenshots/xmen_output.png)
+![X-Men Demo]([screenshots/xmen_output.png](https://github.com/dshivang2002/Movie_Recommendation_System/blob/main/Avengers.png))
  
 > The model correctly identifies franchise continuity — all recommendations for Harry Potter are Harry Potter films, all X-Men recommendations are X-Men films. This validates that the content-based approach using cast, crew, genres and keywords works accurately.
  
