@@ -24,7 +24,7 @@ This project takes a movie selected by the user and recommends **5 most similar 
 ### 🧙 Harry Potter and the Half-Blood Prince → Full HP series
 > Selected: **Harry Potter and the Half-Blood Prince** | Got: Order of the Phoenix, Prisoner of Azkaban, Goblet of Fire, Chamber of Secrets, Philosopher's Stone
  
-![Harry Potter Demo](screenshots/harrypotter_output.png)
+![Harry Potter Demo]([screenshots/harrypotter_output.png](https://github.com/dshivang2002/Movie_Recommendation_System/blob/main/movie_recommendation_system_output2.pdf))
  
 ---
  
