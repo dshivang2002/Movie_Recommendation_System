@@ -17,7 +17,7 @@ This project takes a movie selected by the user and recommends **5 most similar 
 ### 🦸 The Avengers → Marvel recommendations
 > Selected: **The Avengers** | Got: Avengers: Age of Ultron, Captain America: Civil War, Iron Man 3, Captain America: The First Avenger, Iron Man
  
-![Avengers Demo](screenshots/avengers_output.png)
+![Avengers Demo](Avengers.png)
  
 ---
  
